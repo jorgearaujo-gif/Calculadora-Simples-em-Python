@@ -1,0 +1,1 @@
+Prática rápida de lógica de programação e conhecimento teórico de Python ao criar uma calculadora simples. A calculadora possui operações de adição, subtração, multiplicação, divisão, potenciação e radiciação.
